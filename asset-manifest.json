@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Store-Fructis/static/css/main.073c9b0a.css",
+    "main.js": "/Store-Fructis/static/js/main.f29eba0e.js",
+    "static/js/787.c84583e1.chunk.js": "/Store-Fructis/static/js/787.c84583e1.chunk.js",
+    "index.html": "/Store-Fructis/index.html",
+    "main.073c9b0a.css.map": "/Store-Fructis/static/css/main.073c9b0a.css.map",
+    "main.f29eba0e.js.map": "/Store-Fructis/static/js/main.f29eba0e.js.map",
+    "787.c84583e1.chunk.js.map": "/Store-Fructis/static/js/787.c84583e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f29eba0e.js"
+  ]
+}
